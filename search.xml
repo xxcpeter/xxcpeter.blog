@@ -17,7 +17,9 @@
       
         <tags>
             
-            <tag> -C -C++ </tag>
+            <tag> C </tag>
+            
+            <tag> C++ </tag>
             
         </tags>
       
@@ -59,7 +61,9 @@
       
         <tags>
             
-            <tag> -h5ai -html </tag>
+            <tag> h5ai </tag>
+            
+            <tag> html </tag>
             
         </tags>
       
