@@ -1,0 +1,3 @@
+# GitHub Pages production override for subpath deployment
+url: https://xxcpeter.github.io
+root: /blog/
