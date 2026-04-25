@@ -105,8 +105,6 @@ menu:
   # sitemap: /sitemap.xml || fa fa-sitemap
   # commonweal: /404/ || fa fa-heartbeat
   gadgets: /gadgets/ || fa fa-rocket
-  ftp: //ftp.xxcpeter.tech || fa fa-folder
-  music: //music.xxcpeter.tech || fa fa-music
 
 # Enable / Disable menu icons / item badges.
 menu_settings:
@@ -160,8 +158,6 @@ site_state: true
 social:
   GitHub: https://github.com/xxcpeter || fab fa-github
   E-Mail: mailto:xxcpeter@gmail.com || fa fa-envelope
-  Weibo: https://weibo.com/u/2008707041 || fab fa-weibo
-  Twitter: https://twitter.com/xiaoxiucai || fab fa-twitter
   FB Page: https://www.facebook.com/peter.zhuang.31 || fab fa-facebook
   #StackOverflow: https://stackoverflow.com/yourname || fab fa-stack-overflow
   #YouTube: https://youtube.com/yourname || fab fa-youtube
@@ -181,8 +177,8 @@ links_settings:
 
 links:
   #Title: https://example.com
-  SupremeLiam: http://blog.lipf.tech/
-  Redfid: /html/suhang.html
+  Li Peifan: https://peifan.li/
+  Suhang: https://suhang99.github.io/
 
 # Table of Contents in the Sidebar
 # Front-matter variable (nonsupport wrap expand_all).
@@ -228,7 +224,7 @@ footer:
 
   # Beian ICP and gongan information for Chinese users. See: https://beian.miit.gov.cn, http://www.beian.gov.cn
   beian:
-    enable: true
+    enable: false
     icp: 沪ICP备18013662号-1
     # The digit in the num of gongan beian.
     gongan_id: 18013662
